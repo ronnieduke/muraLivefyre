@@ -13,4 +13,4 @@ Tested with:
 
 Known Issues:
 - 
-- Because Livefyre works off of the page URL, If you update the URL of a page in Mura, your comments will be reset to 0. 
+Because Livefyre works off of the page URL, If you update the URL of a page in Mura, your comments will be reset to 0. 
