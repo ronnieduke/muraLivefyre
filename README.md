@@ -10,3 +10,7 @@ http://web.livefyre.com/comments/
 Tested with:
 - Mura 6.1
 - Adobe ColdFusion 9.0.1
+- 
+
+Known Issues:
+- Because Livefyre works off of the page URL, If you update the URL of a page in Mura, your comments will be reset to 0. 
