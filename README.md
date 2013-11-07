@@ -11,6 +11,6 @@ Tested with:
 - Mura 6.1
 - Adobe ColdFusion 9.0.1
 
-Known Issues:
+Update 11/7/13:
 - 
-Because Livefyre works off of the page URL, If you update the URL of a page in Mura, your comments will be reset to 0. To fix this, you need to contact Livefyre support and notify them of the URL change to restore your comments: https://livefyre.zendesk.com/hc/en-us/articles/200329246-My-site-s-URL-has-changed-how-do-I-update-that-with-Livefyre-
+Updated the script to use the content ID of the page as the unique identifier instead of the URL, so changing the URL of the page in Mura does not affect your previous comments!
