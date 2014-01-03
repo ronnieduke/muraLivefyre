@@ -18,7 +18,7 @@
 			<script type="text/javascript" src="http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js"></script>
 			<script type="text/javascript">
 			(function () {
-			    var articleId = #$.content('contentID')#;
+			    var articleId = '#$.content('contentID')#';
 			    fyre.conv.load({}, [{
 			        el: 'livefyre-comments',
 			        network: "livefyre.com",
